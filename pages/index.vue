@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs-demo
+        21云盒子 Nuxt.js 示例
       </h1>
       <h2 class="subtitle">
-        21云盒子 nuxt.js Hello World 样例
+        21云盒子 Nuxt.js 示例
       </h2>
       <div class="links">
         <a

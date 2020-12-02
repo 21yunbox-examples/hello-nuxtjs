@@ -1,8 +1,6 @@
 # Nuxt.js 在 [21云盒子](https://www.21yunbox.com/) 的示例
 
-这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Nuxtjs](https://zh.nuxtjs.org/) 示例。
-
-这个应用已经部署在 [https://nuxt.21yunbox.com](https://nuxt.21yunbox.com)。
+这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Nuxt.js](https://nuxtjs.org/) 示例。
 
 ## 部署
 

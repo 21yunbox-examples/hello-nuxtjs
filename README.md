@@ -1,7 +1,7 @@
-# Nuxt.js 在 [21云盒子](https://www.21yunbox.com/) 的示例
+# Deploy Nuxt JS in China Edge Using [21YuBox](https://www.21cloudbox.com/)
 
-这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Nuxt.js](https://nuxtjs.org/) 示例。
+When Vercel and Netlify don't work out-of-the-box for China, we create an addons solution that gives you an edge in China.
 
-## 部署
+You can read the full tutorial (with video screencast) at [https://www.21cloudbox.com/solutions/how-to-deploy-nuxtjs-project-in-production-server.html](https://www.21cloudbox.com/solutions/how-to-deploy-nuxtjs-project-in-production-server.html).
 
-详情看 [https://www.21yunbox.com/docs/#/deploy-nuxt-js](https://www.21yunbox.com/docs/#/deploy-nuxt-js)
+
